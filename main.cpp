@@ -171,7 +171,6 @@ int main() {
         draw(g);
 
         char input;
-        cout << "a:left d:right s:down q:quit\n";
         cin >> input;
 
         int newX = g.posX;
